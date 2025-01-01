@@ -1,0 +1,7 @@
+.env
+# node_modules 폴더 제외
+node_modules/
+
+# package, package-lock.json 파일 제외
+package-lock.json
+package.json
